@@ -1,0 +1,10 @@
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\bin\Debug\mtsBuscaClientes.exe
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\bin\Debug\mtsBuscaClientes.pdb
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\bin\Debug\mtsBuscaClientes.xml
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\ResolveAssemblyReference.cache
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.Form1.resources
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.Resources.resources
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.vbproj.GenerateResource.Cache
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.exe
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.xml
+C:\usr\Projetos\BUSCA CLIENTES\mtsBuscaClientes\obj\Debug\mtsBuscaClientes.pdb
