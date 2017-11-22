@@ -1,4 +1,4 @@
-﻿Imports System.Text
+Imports System.Text
 Imports System.Data.SqlClient
 
 Public Class MineraClientesDAL
@@ -61,5 +61,7 @@ Public Class MineraClientesDAL
         Catch ex As Exception
             Return False
         End Try
+        
     End Function
+    
 End Class
