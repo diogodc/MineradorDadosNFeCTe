@@ -73,5 +73,7 @@ Public Class ConsultaClientesDAL
         dataAdapter.Fill(dataTable)
 
         Return dataTable
+        
     End Function
+    
 End Class
