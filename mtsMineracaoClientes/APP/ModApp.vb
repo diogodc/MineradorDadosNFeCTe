@@ -101,5 +101,7 @@ Module ModApp
             GC.Collect()
             GC.WaitForPendingFinalizers()
         End Try
+    
     End Sub
+
 End Module
